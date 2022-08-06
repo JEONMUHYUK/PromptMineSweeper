@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\과제\PromptMineSweeper\PromptMineSweeper\bin\Debug\PromptMineSweeper.exe.config
+C:\Users\User\Desktop\과제\PromptMineSweeper\PromptMineSweeper\bin\Debug\PromptMineSweeper.exe
+C:\Users\User\Desktop\과제\PromptMineSweeper\PromptMineSweeper\bin\Debug\PromptMineSweeper.pdb
+C:\Users\User\Desktop\과제\PromptMineSweeper\PromptMineSweeper\obj\Debug\PromptMineSweeper.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\과제\PromptMineSweeper\PromptMineSweeper\obj\Debug\PromptMineSweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\과제\PromptMineSweeper\PromptMineSweeper\obj\Debug\PromptMineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\과제\PromptMineSweeper\PromptMineSweeper\obj\Debug\PromptMineSweeper.exe
+C:\Users\User\Desktop\과제\PromptMineSweeper\PromptMineSweeper\obj\Debug\PromptMineSweeper.pdb
+C:\Users\ich96\OneDrive\바탕 화면\PromptMineSweeper\PromptMineSweeper\PromptMineSweeper\bin\Debug\PromptMineSweeper.exe.config
+C:\Users\ich96\OneDrive\바탕 화면\PromptMineSweeper\PromptMineSweeper\PromptMineSweeper\bin\Debug\PromptMineSweeper.exe
+C:\Users\ich96\OneDrive\바탕 화면\PromptMineSweeper\PromptMineSweeper\PromptMineSweeper\bin\Debug\PromptMineSweeper.pdb
+C:\Users\ich96\OneDrive\바탕 화면\PromptMineSweeper\PromptMineSweeper\PromptMineSweeper\obj\Debug\PromptMineSweeper.csproj.AssemblyReference.cache
+C:\Users\ich96\OneDrive\바탕 화면\PromptMineSweeper\PromptMineSweeper\PromptMineSweeper\obj\Debug\PromptMineSweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\ich96\OneDrive\바탕 화면\PromptMineSweeper\PromptMineSweeper\PromptMineSweeper\obj\Debug\PromptMineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\ich96\OneDrive\바탕 화면\PromptMineSweeper\PromptMineSweeper\PromptMineSweeper\obj\Debug\PromptMineSweeper.exe
+C:\Users\ich96\OneDrive\바탕 화면\PromptMineSweeper\PromptMineSweeper\PromptMineSweeper\obj\Debug\PromptMineSweeper.pdb
